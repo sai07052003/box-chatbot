@@ -1,6 +1,3 @@
-!pip install streamlit
-!pip install groq
-!pip install dotenv
 
 import os
 import streamlit as st
